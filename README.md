@@ -1,9 +1,3 @@
-
-
-Here's a draft README for your Power BI project on Lok Sabha Election Analysis:
-
----
-
 # Lok Sabha Election Analysis with Power BI
 
 ## Overview
